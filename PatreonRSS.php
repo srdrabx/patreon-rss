@@ -1,7 +1,7 @@
 <?php
 
 // set your creator ID here - you have to figure it out from the patreon HTML source code
-$CREATOR_ID = '3764669';
+$CREATOR_ID = '19656069';
 
 
 /**
@@ -26,7 +26,7 @@ class PatreonRSS
                 //'like_count',
                 //'post_file',
                 //'image',
-                //'thumbnail_url',
+                'thumbnail_url',
                 //'embed',
                 //'is_paid',
                 'published_at',
